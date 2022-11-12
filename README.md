@@ -10,5 +10,5 @@
   
   
 ## My Handles
- [<img src="https://img.shields.io/badge/AbuSayem-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/iamabusayem/](https://www.linkedin.com/in/rahat-hasan-akanda-06303a12a/)
- [<img src="https://img.shields.io/badge/AbuSayem-151515?style=for-the-badge&logo=twitter&logoColor=blue">](https://twitter.com/#) 
+ [<img src="https://img.shields.io/badge/Rahat-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rahat-hasan-akanda-06303a12a/)
+ [<img src="https://img.shields.io/badge/Rahat-151515?style=for-the-badge&logo=twitter&logoColor=blue">](https://twitter.com/#) 
