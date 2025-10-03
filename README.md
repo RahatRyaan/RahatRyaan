@@ -42,3 +42,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rh_rahat16)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+### Other Skills
+![DevOps](https://img.shields.io/badge/DevOps-0D97D5?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Learning](https://img.shields.io/badge/Continuous_Learning-FF6B6B?style=for-the-badge&logo=learn&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
+![Payment Gateways](https://img.shields.io/badge/Payment_Gateways-00C853?style=for-the-badge&logo=stripe&logoColor=white)
