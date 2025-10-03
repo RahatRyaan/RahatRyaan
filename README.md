@@ -6,7 +6,6 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rh_rahat16)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rhrahat16)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RahatRyaan&show_icons=true&count_private=true&theme=dark" alt="RahatRyaan" />  
 
 
 ## 👋 About Me
@@ -17,11 +16,15 @@ I've gained hands-on experience through academic projects and an internship, whe
 
 Outside of coding, I enjoy learning new technologies, collaborating on projects, and continuously improving myself to take on challenging roles in tech.
 
-## 🛠️ Skills & Technologies
+## 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RahatRyaan&show_icons=true&count_private=true&theme=dark" alt="RahatRyaan" />  
+
+
+## Skills & Technologies
 
 <div align="center">
 
-### 💻 Languages
+###  Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -29,26 +32,26 @@ Outside of coding, I enjoy learning new technologies, collaborating on projects,
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🚀 Frameworks & Tools
+### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🔧 Other Skills
+### Other Skills
 ![Data Science](https://img.shields.io/badge/Data_Science-01D277?style=for-the-badge&logo=python&logoColor=white)
 ![API Integration](https://img.shields.io/badge/API_Integration-FF6B6B?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-## 📁 Featured Projects
+## Featured Projects
 
 <div align="center">
 
