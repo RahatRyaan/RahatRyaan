@@ -11,4 +11,17 @@
   
 ## My Handles
  [<img src="https://img.shields.io/badge/Rahat-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rahat-hasan-akanda-06303a12a/)
- [<img src="https://img.shields.io/badge/Rahat-151515?style=for-the-badge&logo=twitter&logoColor=blue">]([https://twitter.com/#](https://www.hackerrank.com/profile/rh_rahat16) 
+
+
+ ## 👨‍💻 Competitive Programming & Coding Profiles
+
+### HackerRank
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rh_rahat16)
+
+**Profile:** [rh_rahat16](https://www.hackerrank.com/profile/rh_rahat16)
+
+### Skills & Badges
+- Problem Solving
+- JavaScript
+- Python
+- SQL
