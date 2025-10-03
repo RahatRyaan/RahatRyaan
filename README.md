@@ -54,22 +54,6 @@ Outside of coding, I enjoy learning new technologies, collaborating on projects,
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rahat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhrahat16&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhrahat16&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-**🚀 Always learning, always building 🚀**
-
-</div>
 
 ## 📁 Featured Projects
 
