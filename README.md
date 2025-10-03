@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-ryanrahat6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanrahat6@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rh_rahat16)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rhrahat16)
+
 
 
 
