@@ -45,8 +45,6 @@ Outside of coding, I enjoy learning new technologies, collaborating on projects,
 
 </div>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RahatRyaan&show_icons=true&count_private=true&theme=dark" alt="RahatRyaan" />  
-
 ## 📁 Featured Projects
 
 <div align="center">
@@ -64,3 +62,6 @@ Outside of coding, I enjoy learning new technologies, collaborating on projects,
 <img src="https://komarev.com/ghpvc/?username=rhrahat16&color=blue&style=flat" alt="Profile Views" />
 
 </div>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RahatRyaan&show_icons=true&count_private=true&theme=dark" alt="RahatRyaan" />  
+
