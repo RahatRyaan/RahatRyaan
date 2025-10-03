@@ -52,11 +52,7 @@ https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoCol
 </div>
 📊 GitHub Stats
 <div align="center">
-https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical
-https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical
-
-</div>
-<div align="center">
-⭐️ Always learning, always building ⭐️
+https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true
 
 </div>
