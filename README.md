@@ -6,6 +6,9 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rh_rahat16)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rhrahat16)
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RahatRyaan&show_icons=true&count_private=true&theme=dark" alt="RahatRyaan" />  
+
+
 ## 👋 About Me
 
 Hi, I'm Rahat Hasan Akanda – a recent Computer Science and Engineering graduate from AIUB. I'm passionate about software development, problem-solving, and exploring how technology can make a real impact.
@@ -63,5 +66,4 @@ Outside of coding, I enjoy learning new technologies, collaborating on projects,
 
 </div>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RahatRyaan&show_icons=true&count_private=true&theme=dark" alt="RahatRyaan" />  
 
