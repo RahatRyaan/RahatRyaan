@@ -11,15 +11,6 @@ To generate a PDF from this LaTeX code, navigate to this folder in a terminal an
 
     pdflatex resume.tex
 
-### And remember...
-
->“Everyone appreciates a well-designed resume. Its design, however, should not determine whether or not you are hired.”  
-
-> ~ Harishankaran K. ,   CTO & Co-Founder, HackerRank
-
-You are awesome 🙂, We're super happy to see you're putting so much effort into uplifting yourself by improving your profile. We wish you all the best for your journey ✨🚀
-
-
 
 
 
