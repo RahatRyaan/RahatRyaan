@@ -1,100 +1,40 @@
+# Hi, I'm Rahat 👋
 
+> Full-Stack Engineer specialising in TypeScript · Node.js · React · Go · Distributed Systems
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Rahat Hasan Akanda
-
-## 📫 Contact
-[![Email](https://img.shields.io/badge/Email-ryanrahat6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanrahat6@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rh_rahat16)
-
-
-
-
-## 👋 About Me
-
-Hi, I'm Rahat Hasan Akanda – a recent Computer Science and Engineering graduate from AIUB. I'm passionate about software development, problem-solving, and exploring how technology can make a real impact.
-
-I've gained hands-on experience through academic projects and an internship, where I worked on software testing, data analysis, and application reliability. I'm also curious about the fields of AI, cybersecurity, and IoT, and love experimenting with new ideas.
-
-Outside of coding, I enjoy learning new technologies, collaborating on projects, and continuously improving myself to take on challenging roles in tech.
-
-## 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RahatRyaan&show_icons=true&count_private=true&theme=dark" alt="RahatRyaan" />  
-
-
-## Skills & Technologies
-
-<div align="center">
-
-###  Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Other Skills
-![Data Science](https://img.shields.io/badge/Data_Science-01D277?style=for-the-badge&logo=python&logoColor=white)
-![API Integration](https://img.shields.io/badge/API_Integration-FF6B6B?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-## Featured Projects
-
-<div align="center">
-
-[![Project 1](https://img.shields.io/badge/Project-1-blue?style=for-the-badge)](https://github.com/rhrahat16/project1)
-[![Project 2](https://img.shields.io/badge/Project-2-green?style=for-the-badge)](https://github.com/rhrahat16/project2)
-[![Project 3](https://img.shields.io/badge/Project-3-orange?style=for-the-badge)](https://github.com/rhrahat16/project3)
-
-</div>
+I build production-grade SaaS platforms with real-time collaboration,
+multi-tenant architecture, and cloud-native infrastructure.
 
 ---
 
-<div align="center">
+## 🚀 Featured Projects
 
-<img src="https://komarev.com/ghpvc/?username=rhrahat16&color=blue&style=flat" alt="Profile Views" />
+| Project | What it does | Stack |
+|---|---|---|
+| **[Nexus](https://github.com/RahatRyaan/nexus-saas-platform)** | Multi-tenant SaaS: real-time Kanban, AI knowledge base, billing, RBAC | Node.js · React · MongoDB · Redis · pgvector |
+| **[SyncBoard](https://github.com/RahatRyaan/syncboard-realtime-kanban)** | Collaborative Kanban with OCC, WebSocket presence, S3 uploads | NestJS · React 19 · Socket.io · AWS |
+| **[SkillMap AI](https://github.com/RahatRyaan/skillmap-career-pathfinder)** | Skill-gap analysis & adaptive learning roadmaps | MERN · TypeScript · Playwright |
+| **[Mainstays E-com](https://github.com/RahatRyaan/mainstays-ecommerce-)** | Multi-vendor marketplace with SSLCommerz & Stripe | React · Express · MongoDB · Redis |
+| **[Aegis](https://github.com/RahatRyaan/aegis-vector-engine)** | Distributed LSM-Tree & SIMD vector engine from scratch | Go · C++20 · io_uring · Raft |
 
-</div>
+---
 
+## 🛠 Stack
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+
+---
+
+## 📫 Get in Touch
+
+- 📧 rh.rahat16@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR_HANDLE)
